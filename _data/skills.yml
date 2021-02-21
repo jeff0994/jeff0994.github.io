@@ -1,12 +1,22 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming Lenguages
+- skill: Programming Lenguages
+  description: <mark>Python</mark><mark>C</mark>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Data Science Techniques
+- skill: Data Science Techniques
+  description: <mark>Data Manipulation</mark> <mark>Exploratory Data Analysis</mark> <mark>Data Visualization</mark><mark>Supervised Learning</mark> <mark>Unsupervised Learning</mark>
+               <mark>Deep Learning with Keras-Tensorflow</mark> <mark>Statistical Thinking</mark>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Data Science Toolbox
+- skill: Data Science Toolbox
+  description: <mark>Pandas</mark><mark>NumPy</mark><mark>Scikit-learn</mark><mark>Matplotlib</mark><mark>Seaborn</mark><mark>PowerBI</mark><mark>Tensorflow</mark><mark>Jupyter Notebooks</mark>
+               <mark>Spidey</mark><mark>SQL</mark><mark>SQL-Server</mark><mark>Apache Impala</mark><mark>Git</mark>
+  
+# Operating Systems
+- skill: Operating Systems
+  description: <mark>Windows</mark><mark>Ubunto</mark> 
+
+# Personal strenghts
+- skill: Personal strenghts
+  description: <mark>Hard-Working</mark><mark>Highly Adaptable</mark><mark>Creative</mark><mark>Project management</mark><mark>Confidant</mark><mark>Responsible</mark><mark>Reliable</mark><mark>Team leadership</mark>

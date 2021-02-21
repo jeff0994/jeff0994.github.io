@@ -1,17 +1,17 @@
 # Skills
 # Programming Lenguages
 - skill: Programming Lenguages
-  description: <mark>Python</mark><mark>C</mark>
+  description: <mark>Python</mark> <mark>C</mark>
 
 # Data Science Techniques
 - skill: Data Science Techniques
-  description: <mark>Data Manipulation</mark> <mark>Exploratory Data Analysis</mark> <mark>Data Visualization</mark><mark>Supervised Learning</mark> <mark>Unsupervised Learning</mark>
+  description: <mark>Data Manipulation</mark> <mark>Exploratory Data Analysis</mark> <mark>Data Visualization</mark> <mark>Supervised Learning</mark> <mark>Unsupervised Learning</mark>
                <mark>Deep Learning with Keras-Tensorflow</mark> <mark>Statistical Thinking</mark>
 
 # Data Science Toolbox
 - skill: Data Science Toolbox
-  description: <mark>Pandas</mark><mark>NumPy</mark><mark>Scikit-learn</mark><mark>Matplotlib</mark><mark>Seaborn</mark><mark>PowerBI</mark><mark>Tensorflow</mark><mark>Jupyter Notebooks</mark>
-               <mark>Spidey</mark><mark>SQL</mark><mark>SQL-Server</mark><mark>Apache Impala</mark><mark>Git</mark>
+  description: <mark>Pandas</mark> <mark>NumPy</mark> <mark>Scikit-learn</mark> <mark>Matplotlib</mark> <mark>Seaborn</mark> <mark>PowerBI</mark> <mark>Tensorflow</mark> <mark>Jupyter Notebooks</mark>
+               <mark>Spidey</mark> <mark>SQL</mark> <mark>SQL-Server</mark> <mark>Apache Impala</mark> <mark>Git</mark>
   
 # Operating Systems
 - skill: Operating Systems

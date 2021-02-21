@@ -4,12 +4,15 @@
   year: 2014 &mdash; 2020
 #  awards:
 #    - award: 
-  summary: <br> I focused on the area of computational physics and materials science.</br>
-  
-            <br/>Developing uncertainty calculation projects via Monte Carlo simulation or by estimating uncertainties by the analytical method for different physical models.
+  summary:  <br> I focused on the area of computational physics and materials science.</br>
             
+            <br/><b>Computational Techniques:</b> <mark>Linux</mark> <mark>Git</mark> <mark>Python</mark> <mark>C</mark> 
+            <br/>I developed projects for calculating uncertainties via Monte Carlo simulation or by estimating uncertainties by the analytical methods for different physical models.
+            <br/>
             <br/> In this period I focus on data science and machine learning by taking various online courses. 
-                  I also do research on error correction for quantum computing using neural networks.
+                  Also I learned how to use and integrate Pandas and SQL for data analysis by carrying out projects that seek to answer questions from physics or from everyday life.
+            <br/>
+            <br/><b>Research:</b>Our research deals with quantum error correction using neural networks.
 
 - degree: Studies in Chemistry
   uni: University of Costa Rica

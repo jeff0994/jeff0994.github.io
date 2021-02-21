@@ -2,14 +2,21 @@
 - degree: BSc in Physics
   uni: University of Costa Rica
   year: 2014 &mdash; 2020
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+#  awards:
+#    - award: 
+  summary: <br> I focused on the area of computational physics and materials science.</br>
+  
+            <br/>Developing uncertainty calculation projects via Monte Carlo simulation or by estimating uncertainties by the analytical method for different physical models.
+            
+            <br/> In this period I focus on data science and machine learning by taking various online courses. 
+                  I also do research on error correction for quantum computing using neural networks.
 
 - degree: Studies in Chemistry
   uni: University of Costa Rica
   year: 2014 &mdash; actually
-  award: Former Vicepresident (2016-2017), Student Committee.
+  awards: 
+    - award: Former Vicepresident (2016-2017), Student Committee.
+    - award: Co-funder International Student Chapter American Chemistry Society at University of Costa Rica.
   summary: <br> In this period I develop my experimental and modeling skills.</br>
   
            <br/><b>Lab Techniques:</b> <mark>Volumetric Analysis</mark> <mark>Instrumental Analysis</mark> <mark>Gas Chromatography</mark> <mark>HPLC</mark>
@@ -18,6 +25,6 @@
            <br/><b>Linear modeling:</b> I also developed my abilities in linear and polynomial modeling to explain physicochemical phenomena. Here I fell in love with data management.
            <br/>
            <br/>
-           <b>Leadership, project planning and service skills:</b> I was an active member of our school’s student committee as a former vice president. Among my favorite projects is the Chemical Show, a show of experiments that sought to motivate children to study science and engineering careers. We were able to reach more than 2000 children from various parts of the country. 
-           On the other hand, I founded the Laboratory Induction, a project whose objective was to prepare students for their laboratory course. A total success, more than 5000 beneficiaries improved their experience. 
+           <b>Leadership, project planning and service skills:</b> I was an active member of our school’s student committee as a former vice president. Among my favorite projects is the <b>Chemical Show</b>, a show of experiments that sought to motivate children to study science and engineering careers. We were able to reach more than 2000 children from various parts of the country. 
+           On the other hand, I founded the <b>Laboratory Induction</b>, a project whose objective was to prepare students for their laboratory course. A total success, more than 5000 beneficiaries improved their experience. 
            We concluded our period by founding the first student chapter of the American Chemical Society in Costa Rica.

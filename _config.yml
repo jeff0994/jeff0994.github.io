@@ -3,7 +3,7 @@ title: "Yefry Lopez BSc Physics and Data Analyst"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
-markdown: markdown
+markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed

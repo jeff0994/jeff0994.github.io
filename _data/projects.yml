@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Data Science Projects
+#  role: 
+#  duration: 2012 &mdash; Present
+   url: https://github.com/jeff0994/DataScienceProjects
+  description: A repository that contains a series of data science projects and datasets. Pandas, numpy and matplotlib are used as the main analysis tools.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group

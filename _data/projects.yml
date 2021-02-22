@@ -10,7 +10,15 @@
 
 # Springfield Community Outreach Group
 - project: Python in Chemistry
-  role: Programmer & Organizer
+  role: Programmer & researcher
   duration: 2017 &mdash; 2018
   url: https://github.com/jeff0994/Qu-0560
   description: Introducing Python to chemistry students. Numpy, Pandas and Matplotlib for chemical calculatons and linear modeling.
+  
+ 
+# Springfield Community Outreach Group
+- project: Neural networks quantum error correction
+  role: Programmer & researcher
+  duration: 2020 &mdash; Present
+#  url: https://github.com/jeff0994/Qu-0560
+  description: We use neural networks to correct quantum errors in simulations under different error models.

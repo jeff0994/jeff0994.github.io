@@ -3,8 +3,8 @@
 
 # jazznotes.io
 - project: Data Science Projects
-  role: 
-  duration: 2012 &mdash; Present
+  role: Data Analyst
+  duration: 2018 &mdash; Present
   url: https://github.com/jeff0994/DataScienceProjects
   description: A repository that contains a series of data science projects and datasets. Pandas, numpy and matplotlib are used as the main analysis tools.
 

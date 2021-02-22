@@ -9,8 +9,8 @@
   description: A repository that contains a series of data science projects and datasets. Pandas, numpy and matplotlib are used as the main analysis tools.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Python in Chemistry
+  role: Programmer & Organizer
+  duration: 2017 &mdash; 2018
+   url: https://github.com/jeff0994/Qu-0560
+  description: Introducing Python to chemistry students: Numpy, Pandas and Matplotlib for chemical calculatons and linear modeling.

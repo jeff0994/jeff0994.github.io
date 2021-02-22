@@ -1,15 +1,17 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+- organization: Max Planck Science Tunne
   role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  year: 2017
+  url: https://www.sciencetunnel.de/exposition
+  summary: Mentor in the Tunnel of Science in Costa Rica. 
+           More than 20 thousand people discovered the secrets of the cosmos, the complexity, energy supplies and materials in this exciting journey.
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Community service at La Cometa
+  role: Mentor, tutor and instructor
+  year: 2018 &mdash; 2019
+  url: https://www.curridabat.go.cr/inicio/servicios/la-cometa/
+  summary: I worked on developing computational thinking in community children using code.org as a platform. 
+           I also mentored mothers who wanted to advance in their high school studies.

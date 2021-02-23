@@ -1,4 +1,10 @@
 # Recognitions
+
+- award: Analyzing Big Data with SQL
+  organization: coursera.org and cloudera
+  year: 2021
+  summary: The course focuses on big data SQL engines Apache Hive and Apache Impala, but most of the information is applicable to SQL with traditional RDBMs as well; the instructor explicitly addresses differences for MySQL and PostgreSQL.
+           
 - award: Deep Learning especialization
   organization: coursera.org and deeplearning.ai
   year: 2020

@@ -1,10 +1,17 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Deep Learning especialization
+  organization: coursera.org and deeplearning.ai
+  year: 2020
+  summary: Five courses about the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. 
+           Topics coverered are Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
+      
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: DeepLearning.AI TensorFlow Developer
+  organization: coursera.org and deeplearning.ai
+  year: 2020
+  summary: The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models. 
+
+- award: Google IT Support
+  organization: coursera.org and Google
+  year: 2020
+  summary: In this 5-course certificate program, you’ll prepare for an entry-level job in IT support through an innovative curriculum developed by Google.

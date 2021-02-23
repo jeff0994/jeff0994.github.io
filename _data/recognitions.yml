@@ -3,13 +3,13 @@
 - award: Analyzing Big Data with SQL
   organization: coursera.org and cloudera
   year: 2021
-  summary: The course focuses on big data SQL engines Apache Hive and Apache Impala, but most of the information is applicable to SQL with traditional RDBMs as well; the instructor explicitly addresses differences for MySQL and PostgreSQL.
+  summary: I learned the big data SQL engines Apache Hive and Apache Impala, but most of the information is applicable to SQL with traditional RDBMs as well; the instructor explicitly addresses differences for MySQL and PostgreSQL.
 
 
 - award: Data Science with Python career track
   organization: Datacamp
   year: 2021
-  summary: In this track, you'll learn how this versatile language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
+  summary: This course was about the Data Science process in Python. I learned how to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. 
            
            
 - award: Deep Learning especialization
@@ -22,9 +22,9 @@
 - award: DeepLearning.AI TensorFlow Developer
   organization: coursera.org and deeplearning.ai
   year: 2020
-  summary: The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models. 
+  summary: The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches applied machine learning skills with TensorFlow and how to build and train powerful models. 
 
 - award: Google IT Support
   organization: coursera.org and Google
   year: 2020
-  summary: In this 5-course certificate program, you’ll prepare for an entry-level job in IT support through an innovative curriculum developed by Google.
+  summary: A 5-course certificate program. I was prepared for an entry-level job in IT support through an innovative curriculum developed by Google.

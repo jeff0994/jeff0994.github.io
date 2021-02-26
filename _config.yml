@@ -23,8 +23,10 @@ resume_contact_address:         "Alajuelita, San José"
 resume_header_contact_info:     "Alajuelita, San José • +506-8517-6983 • yefry.lopez.nu@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Scientist in love with data analysis and modeling. I love asking myself questions and continually learning. This has led me to develop models that answer my questions.
-                      I have studies in physics and chemistry. I am looking for a position as a data analyst. 
+resume_header_intro: "<p>Scientist in love with data analysis and modeling.
+                          I love asking myself questions and continually learning. This has led me to develop models that answer my interrogations. 
+                          I enjoy telling stories through science. 
+                          I am looking for a position as a data analyst that allows me continue solving problems and find insights from the data.
                       <br/>
                       <br/>
                       <b>My toolbox:</b> <mark>SQL</mark> <mark>Python</mark> <mark>Numpy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Pandas</mark> <mark>PowerBI</mark> <mark>Scikit-learn</mark> <mark>Jupyter Lab</mark> <mark>Tensorflow</mark>

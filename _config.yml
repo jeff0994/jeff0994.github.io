@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Yefry López Núñez"
-resume_title:                   "Graduate student in Physics"
+resume_title:                   "Physics Graduate Student, Universidad de Costa Rica "
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "yefry.lopez.nu@gmail.com"
